@@ -1,12 +1,6 @@
 ---
 name: taiwan-labor-law-expertise
-description: >
-  This skill should be used when the user asks about "台灣勞動法", "勞基法", 
-  "資遣要件", "解僱程序", "工時規定", "職業災害", "勞資爭議", "勞動契約",
-  "加班費", "特別休假", "工資爭議", or needs guidance on Taiwan labor law,
-  dismissal procedures, working hours regulations, occupational safety, or
-  labor-management disputes.
-version: 0.1.0
+description: Provide authoritative guidance on Taiwan labor law for OB/HRM teaching — covering dismissal procedures, working hours, wage disputes, occupational injuries, and labor-management conflict. Use when the user asks about 勞基法、資遣、解僱、加班費、職業災害、勞資爭議, or related Taiwan labor law topics.
 ---
 
 # 台灣勞動法規專業知識
